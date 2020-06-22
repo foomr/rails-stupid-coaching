@@ -1,0 +1,7 @@
+.banner {
+    background: yellow;
+    h1 {
+      font-size: 50px;
+      width: 800px;
+    }
+  }
